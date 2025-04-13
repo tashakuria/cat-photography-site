@@ -41,6 +41,13 @@
     padding: 15px;
     
 }
+.p::first-letter{
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size: 3em;
+    float: left;
+    padding-right: 8px;
+}
 
 .button{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
