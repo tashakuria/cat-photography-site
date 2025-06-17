@@ -19,7 +19,8 @@ There are currently no known bugs.
 
 ## Technologies Used  
 * HTML  
-* CSS  
+* CSS
+* JS
 
 This project was built without JavaScript or external frameworks, showcasing what can be achieved using only HTML and CSS for layout, styling, and content presentation.
 
